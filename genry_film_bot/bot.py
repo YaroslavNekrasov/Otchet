@@ -2,7 +2,7 @@ import logging
 from aiogram import Bot, Dispatcher, types
 import asyncio
 
-BOT_TOKEN = "7947089975:AAEVpU9LF6tSJp8sGTr5GEGam7-2eciHne4"
+BOT_TOKEN = "ВАШ ТОКЕН"
 
 # Пути к изображениям
 HORROR_IMAGE_PATH = "image/horror.png"
